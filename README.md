@@ -1,5 +1,5 @@
 # stepik_ds_and_ml
-Course about introduction to Data Science and Machiene Learning
+Course about introduction to Data Science and Machine Learning
 (https://stepik.org/course/4852)
 - Python Data Analysis Libraries
 - Data preprocessing
