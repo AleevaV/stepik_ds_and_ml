@@ -1,2 +1,7 @@
 # stepik_ds_and_ml
-hb
+Course about introduction to Data Science and Machiene Learning
+- Python Data Analysis Libraries
+- Data preprocessing
+- Decision tree 
+- Random forest
+- Neural networks
